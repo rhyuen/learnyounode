@@ -1,1 +1,3 @@
-#HORIZONAL RULES
+# Horizontal rules
+
+---

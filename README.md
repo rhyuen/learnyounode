@@ -1,6 +1,7 @@
 LearnYouNode
 ===
 
+---
 My solutions from a series of tutorials on "www.nodeschool.io".
 
 - Table of Contents
@@ -11,6 +12,8 @@ My solutions from a series of tutorials on "www.nodeschool.io".
 
 Markdown
 ===
+
+---
 
 **UPDATE**
 > Apparently, there's a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for this sort of thing.  That should've been obvious...
@@ -34,13 +37,18 @@ Yes, I am practicing the __*How-To-Markdown*__ skills *here* on this very page.
   5. *Embedding Images*
   6. *Blockquotes* **(>)**
     - > "A container is not a VM."
-
-      > * Something I read on the Docker website
+      * Something I read on the Docker website      
   7. *Code Blocks* **(3 Backticks)**
+  8. *Tables*
+  9. *Horizonal Rules* **(3 Dashes with a Return below the heading.)**
+  10. *HTML*, **(so it seems html can be embedded in markdown)**
+  11. *Checkboxes * **(Array boxes with an 'x' or a 'space' in them)**
 
 
 Currying in Javascript
 ===
+
+---
 
 __*Closures*__ and stuff...
 
